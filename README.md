@@ -1,9 +1,9 @@
-![banner para o gir hub](https://user-images.githubusercontent.com/111164834/194446500-eb37693a-f7df-4a57-977f-bcd1d4fcb51f.gif)
+![banner para o git hub](https://user-images.githubusercontent.com/111164834/194446500-eb37693a-f7df-4a57-977f-bcd1d4fcb51f.gif)
 
 ## 👾 Sobre mim 
   💫 Estudo Análise e Desenvolvimento de Dados     
-  💫 Sou apaixonado por tecnologia       
-  💫 Querendo sempre aprender mais       
+  💫 Apaixonado por tecnologia       
+  💫 Sempre pronto para adiquirir mais conhecimento       
   💫 Contato: theodirk17@gmail.com      
   💫 Linkedin: https://www.linkedin.com/in/theo-dirk/      
 
