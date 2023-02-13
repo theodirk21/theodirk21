@@ -1,4 +1,4 @@
-Hi 👋 My name is Theo Dirk 
+Olá 👋 Meu nome é Theo Dirk 
 ========================== 
  Software Developer 
 ------------------
