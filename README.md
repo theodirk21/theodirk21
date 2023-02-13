@@ -2,7 +2,7 @@ Olá 👋 Meu nome é Theo Dirk
 ========================== 
  Software Developer 
 ------------------
- Profissional em transição de carreira da área de atendimento ao cliente para Desenvolvimento Back-End 2 cursos completos, um oBootcamp Quebéc Java Digital na plataforma DIO e o Programa Alura-Suzano include , e também uma formação em andamento, Java e Orientação a Objetos, dentro da plataforma Alura. Além disso também curso Análise e Desenvolvimento de Sistemas na Universidade Veiga de Almeida (UVA). Durante eles pude conhecer o Java, SpringBoot, PostgreSQL, Java Script e Python e Orientação a Objetos. Além de relembrar estudos feitos anteriormente em HTML e CSS. Possuo Inglês Avançado, e conhecimento do pacote office e adobe intermediário.
+ Profissional em transição de carreira da área de atendimento ao cliente para Desenvolvimento Back-End 2 cursos completos, um Bootcamp Quebéc Java Digital na plataforma DIO e o Programa Alura-Suzano include , e também uma formação em andamento, Java e Orientação a Objetos, dentro da plataforma Alura. Além disso também curso Análise e Desenvolvimento de Sistemas na Universidade Veiga de Almeida (UVA). Durante eles pude conhecer o Java, SpringBoot, PostgreSQL, Java Script e Python e Orientação a Objetos. Além de relembrar estudos feitos anteriormente em HTML e CSS. Possuo Inglês Avançado, e conhecimento do pacote office e adobe intermediário.
 
 * 🌍  Sou brasileiro
 * ✉️  Pode me mandar um e-mail se quiser: [theodirk17@gmail.com](mailto:theodirk17@gmail.com)
