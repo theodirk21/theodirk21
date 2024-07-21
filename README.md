@@ -1,20 +1,47 @@
-Olá 👋 Meu nome é Theo Dirk 
-========================== 
- Software Developer 
-------------------
- Profissional em transição de carreira da área de atendimento ao cliente para ser um Desenvolvedor, tenho cursos completos como: um Bootcamp Quebéc Java Digital na plataforma DIO, Programa Alura-Suzano include , Java e Orientação a Objetos,  dentro da plataforma Alura além de diversos cursos mais curtos, como de React com javascript, fora de formações mas que me agregaram demais. Além disso também curso Análise e Desenvolvimento de Sistemas na Universidade Veiga de Almeida (UVA). Durante esses aprendizados pude conhecer o Java, SpringBoot, PostgreSQL, Javascript, Angular e React e Orientação a Objetos. Possuo Inglês Avançado, e conhecimento do pacote office e adobe intermediário.
 
-* 🌍  Sou brasileiro
-* ✉️  Pode me mandar um e-mail se quiser: [theodirk17@gmail.com](mailto:theodirk17@gmail.com)
+<br>
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=theodirk21.theodirk21">
+<br>
 
-### Skills  
+<div align="center">
 
-<p align="left"> <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a> 
- <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="36" height="36" alt="Angular" />
- </a> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> 
- <a href="https://spring.io/tools" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"  width="36" height="36" alt="Spring" /></a> </p> 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=50&color=F7E025&center=true&vCenter=true&width=435&lines=Bem+vinde!!!;Eu+sou+Theo+Dirk+;Sou+Engenheiro+de+Software)](https://git.io/typing-svg)
 
-### Socials 
+<br>
+<h2 align="left"> Contato 📱</h2>
+<div align="left"> 
+  <a href = "mailto:theodirk17@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/theo-dirk" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 
-<p align="left"> <a href="https://www.github.com/theodirk21" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/theo-dirk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/Theodirk#1797" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
+<br>
+<h2 align="left"> GitHub Stats </h2>
+<div align="center">
 
+ <img align="center" width="70%" src="https://github-readme-stats.vercel.app/api?username=theodirk21&show_icons=true&theme=gotham" />
+
+ <br><br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=theodirk21&theme=gotham&border_radius=6&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=700)](https://git.io/streak-stats)
+
+ </div> 
+<br>
+<h2 align="left"> Tecnologias que utilizo 🧑🏻‍💻</h2>
+<div align="center">
+<div style="display: inline_block"><br/>
+    <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white " />
+    <img align="center" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=Git&logoColor=white" />
+    <img align="center" src="https://img.shields.io/badge/Java-FF2400?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img align="center" src="https://img.shields.io/badge/React-87AFC7?style=for-the-badge&logo=react&logoColor=white" />
+    <img align="center" src="https://img.shields.io/badge/Spring-51b55a?style=for-the-badge&logo=spring&logoColor=white" />
+    <img align="center" src="https://img.shields.io/badge/Azure-151B54?style=for-the-badge&logoColor=white" />
+    <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+    <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" />
+    <img align="center" src="https://img.shields.io/badge/Sql-f1220b?style=for-the-badge&logo=SQL&logoColor=red" />
+    <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+
+
+
+ 
+</div><br/>
+</div> 
