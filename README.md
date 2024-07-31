@@ -39,7 +39,7 @@
     <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" />
     <img align="center" src="https://img.shields.io/badge/Sql-f1220b?style=for-the-badge&logo=SQL&logoColor=red" />
     <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-
+    <img align="center" src="https://img.shields.io/badge/Typescript-4169E1?style=for-the-badge&logo=typescript&logoColor=white" />
 
 
  
