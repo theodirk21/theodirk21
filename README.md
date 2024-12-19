@@ -19,9 +19,7 @@
 
  <img align="center" width="70%" src="https://github-readme-stats.vercel.app/api?username=theodirk21&show_icons=true&theme=gotham" />
 
- <br><br>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=theodirk21&theme=gotham&border_radius=6&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=700)](https://git.io/streak-stats)
+ <br>
 
  </div> 
 <br>
